@@ -4,8 +4,6 @@ import sys
 import math
 import time
 from collections import deque
-
-# =====================================================================
 # 1. SETUP CONSTANTS & SPLIT SCREEN CONFIGURATIONS
 # =====================================================================
 # Optimized dimensions to ensure complex pathways and lightning-fast execution
@@ -360,3 +358,4 @@ while running:
 
 pygame.quit()
 sys.exit()
+print("this is benchmark for maze routing algorithm")
