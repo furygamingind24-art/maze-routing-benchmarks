@@ -28,3 +28,6 @@ The visual data captured from our analytics ledger dashboards maps these trends 
 The resulting aggregate performance chart highlights exactly how these computation latencies stabilize over extended trials:
 
 Ultimately, our research proves that while blind stacks like DFS offer quick initial computations, informed heuristic models like A* Search dominate practical engineering applications. By bridging abstract graph theory with structural computer vision matrices, we can transform static real-world blueprints into safe, highly optimized autonomous tracking channels.
+
+## Contributors
+- [Jeevesh](https://github.com/jeeveshcodes)
